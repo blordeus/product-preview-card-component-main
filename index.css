@@ -146,7 +146,6 @@ body {
 
 @media (min-width: 600px) {
   .product {
-    padding: 2rem;
     grid-template-columns: 1fr 1fr;
   }
 }/*# sourceMappingURL=index.css.map */
